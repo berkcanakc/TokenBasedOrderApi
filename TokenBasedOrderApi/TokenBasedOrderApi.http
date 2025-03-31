@@ -1,0 +1,6 @@
+@TokenBasedOrderApi_HostAddress = http://localhost:5159
+
+GET {{TokenBasedOrderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
